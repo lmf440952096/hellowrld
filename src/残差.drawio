@@ -38,7 +38,7 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry" />
         </mxCell>
         <mxCell id="r9KuPydjs8oUez_vtz9e-12" edge="1" parent="1" source="r9KuPydjs8oUez_vtz9e-1" style="curved=1;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;rounded=0;" target="r9KuPydjs8oUez_vtz9e-5" value="残差连接 (Shortcut)">
-          <mxGeometry height="50" relative="1" width="50" x="-0.7115" y="-10" as="geometry">
+          <mxGeometry height="50" relative="1" width="50" x="-0.6808" y="-5" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="120" y="38" />
