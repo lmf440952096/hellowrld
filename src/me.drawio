@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="6BtXyrE1q5-kiwnlpsVO">
+    <mxGraphModel dx="1058" dy="586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9NchkIKSNA01toNlFQ5z-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="211" width="703" x="97" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-3" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="39" width="661.5" x="119.5" y="263" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;前端表示层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="78" x="406.5" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-6" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="48" width="657" x="122.5" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Python API" vertex="1">
+          <mxGeometry height="26" width="77" x="169" y="207" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-11" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="35" width="93" x="460" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-18" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="35" width="124" x="258" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-19" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="35" width="93" x="639" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="数据处理/增强" vertex="1">
+          <mxGeometry height="26" width="93" x="465" y="207" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="模型训练/推理/导出" vertex="1">
+          <mxGeometry height="26" width="121" x="261" y="208.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9NchkIKSNA01toNlFQ5z-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="数据格式转换" vertex="1">
+          <mxGeometry height="26" width="90" x="640.5" y="207" as="geometry" />
+        </mxCell>
+        <mxCell id="rP0ZJHlP2KXax8j8Yt59-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="MindSpore IR统一计算图表达" vertex="1">
+          <mxGeometry height="26" width="175" x="358" y="269.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rP0ZJHlP2KXax8j8Yt59-8" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="48" width="661.25" x="118.75" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="rP0ZJHlP2KXax8j8Yt59-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="GHLO" vertex="1">
+          <mxGeometry height="26" width="52" x="182" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="rP0ZJHlP2KXax8j8Yt59-11" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="29" width="112.5" x="261" y="321.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rP0ZJHlP2KXax8j8Yt59-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="HLO" vertex="1">
+          <mxGeometry height="26" width="43" x="294" y="321.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rP0ZJHlP2KXax8j8Yt59-12" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="29" width="112.5" x="450.25" y="321.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rP0ZJHlP2KXax8j8Yt59-13" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="29" width="112.5" x="633" y="321.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rP0ZJHlP2KXax8j8Yt59-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="自动并行" vertex="1">
+          <mxGeometry height="26" width="66" x="474" y="323.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rP0ZJHlP2KXax8j8Yt59-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="自行微分" vertex="1">
+          <mxGeometry height="26" width="66" x="653" y="323" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
